@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deril Menezes</h1>
 <h3 align="center">Creativ Web Developer in Dubai with 3 Years of Experience, Proficient in JavaScript, React, Next.js, Node.js, Express.js, and MongoDB, Delivering Innovative and Scalable Solutions for Frontend and Backend Applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=derilmnzes&label=Profile%20views&color=0e75b6&style=flat" alt="derilmnzes" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/derilmnzes" target="blank"><img src="https://img.shields.io/twitter/follow/derilmnzes?logo=twitter&style=for-the-badge" alt="derilmnzes" /></a> </p>
 
