@@ -1,72 +1,159 @@
 <h1 align="center">Hi 👋, I'm Deril Menezes</h1>
-<h3 align="center">Senior Full Stack Developer based in Dubai with 6 Years of Experience.</h3>
-<h3 align="center">Specializing in React, Next.js, React Native, and AI Integrations.</h3>
+<h3 align="center">🚀 Senior Full Stack Developer | AI Enthusiast | E-commerce Specialist</h3>
 
-<p align="left"> <a href="https://twitter.com/derilmnzes" target="blank"><img src="https://img.shields.io/twitter/follow/derilmnzes?logo=twitter&style=for-the-badge" alt="derilmnzes" /></a> </p>
+<p align="center">
+<i>Building scalable web & mobile applications with a focus on performance and user experience. Based in Dubai with 6 years of industry experience.</i>
+</p>
+
+<p align="center">
+<a href="https://twitter.com/derilmnzes" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/twitter/follow/derilmnzes%3Flogo%3Dtwitter%26style%3Dfor-the-badge%26color%3Dblue" alt="derilmnzes" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/deril-menezes/" target="blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Deril Menezes" /></a>
+<a href="mailto:derilwebsite@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /></a>
+</p>
+
+<h3 align="left">👨‍💻 About Me</h3>
 
 🔭 I’m currently working on Headless E-commerce (Shopify Hydrogen) and Generative AI Apps.
 
-🌱 I’m currently learning Advanced Three.js and LLM Architecture.
+🌱 I’m currently learning Advanced Three.js, LLM Architecture, and System Design.
 
-💬 Ask me about React, Next.js, React Native, Node.js, and GraphQL.
+👯 I’m looking to collaborate on Open Source AI projects and React Native libraries.
 
-📫 How to reach me derilwebsite@gmail.com
+💬 Ask me about React, Next.js, Scalable Architecture, and Performance Optimization.
 
-<h3 align="left">Connect with me:</h3>
+⚡ Fun fact: I love blending 3D Graphics with web interfaces!
+
+<h3 align="left">🛠️ Tech Stack</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+JavaScript
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+TypeScript
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+React
+</td>
+<td align="center" width="90">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Next.js
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Redux
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Tailwind
+</td>
+<td align="center" width="90">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+GraphQL
+</td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Node.js
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Express
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="icon" width="65" height="65" />
+
+
+
+
+MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Firebase
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Git
+</td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="icon" width="65" height="65" />
+
+
+
+
+Docker
+</td>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="icon" width="65" height="65" />
+
+
+
+
+GCP
+</td>
+</tr>
+</table>
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dderilmnzes%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" height="180" alt="stats graph"  />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dderilmnzes%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="180" alt="languages graph"  />
+</div>
+
+<h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/derilmnzes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="derilmnzes" height="30" width="40" /></a>
 <a href="https://www.google.com/search?q=https://linkedin.com/in/deril-menezes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Deril Menezes" height="30" width="40" /></a>
 <a href="https://www.google.com/search?q=https://instagram.com/derilmnzes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="derilmnzes" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!-- TypeScript (Added) -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<!-- Next.js -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<!-- Node.js -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<!-- Express -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<!-- GraphQL (Added) -->
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<!-- Redux -->
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<!-- Tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<!-- HTML5 -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!-- CSS3 -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!-- Sass -->
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<!-- Firebase -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!-- GCP -->
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<!-- Webpack -->
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-<!-- Babel -->
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<!-- Blender -->
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<!-- Unreal -->
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-</p>
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derilmnzes&show_icons=true&locale=en&layout=compact" alt="derilmnzes" /></p>
